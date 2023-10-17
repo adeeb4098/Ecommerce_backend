@@ -114,5 +114,5 @@ public class Address {
         this.zipCode=zipCode;
         this.mobile=mobile;
     }
-
 }
+
